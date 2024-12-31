@@ -50,5 +50,3 @@ Follow these steps to set up the environment:
    - Integration with Feature Store for efficient feature management and low-latency predictions.
 
 ---
-
-For any issues or further clarification, please contact the project maintainer.
