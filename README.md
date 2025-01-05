@@ -43,10 +43,11 @@ Follow these steps to set up the environment:
 
 1. **Data Preprocessing**:
    - Handling missing values.
+   - Creating new features.
    - Feature engineering with techniques like PCA and scaling.
 2. **Clustering Analysis**:
-   - Implementation of K-Means with optimal cluster selection using Elbow and Silhouette methods.
+   - Implementation of K-Means with optimal cluster selection using Elbow and Silhouette methods. Implementation of others supervied model.
 3. **Real-Time Adaptation**:
-   - Integration with Feature Store for efficient feature management and low-latency predictions.
+   - Development of different strategies with PySpark and Integration with Feature Store for efficient feature management and low-latency predictions.
 
 ---
