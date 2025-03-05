@@ -5,7 +5,7 @@
 This project focuses on analyzing customer data to segment them into meaningful clusters. The goal is to identify high-value customers and those who are price-sensitive, enabling tailored marketing strategies and product recommendations.
 
 ### Deliverables
-- **Presentation**: The project’s summary and analysis steps are documented in `Bets_presentation.pdf`.
+- **Presentation**: The project’s summary and analysis steps are documented in `document.pdf`.
 - **Code**: The entire implementation is available in the provided Jupyter notebook file (`.ipynb`).
 
 ## Installation Guide
