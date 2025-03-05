@@ -28,7 +28,7 @@ Follow these steps to set up the environment:
 
 ## File Descriptions
 
-- **`Bet_presentation.pdf`**: Contains the presentation summarizing the problem statement, proposed solution, key steps, and results.
+- **`document.pdf`**: Contains the presentation summarizing the problem statement, proposed solution, key steps, and results.
 - **`test.ipynb`**: Jupyter Notebook with the full implementation, including data preprocessing, clustering, and model training.
 
 ## Running the Code
